@@ -1,8 +1,8 @@
 # Ultimate-Search
-This is a program that can quickly open and search a topic in a variety of popular websites (Google, Amazon, Newegg, etc). It was created in order to reduce amount of clicks required to find a result.
+This is a program that can quickly open and search a topic in a variety of popular websites (Google, Amazon, Newegg, etc). It was created in order to reduce amount of clicks required to find a result. After typing a search request and clicking the "Search" button, the program will automatically opens Google Chrome, navigates to the selected website, enters the search request and continues to the webpage.
 
 ## Objective
-The objective of this personal project was to learn how to use Serlenium in order to automate websites. 
+The objective of this personal project was to learn how to use Serlenium in order to automate websites and to create a modern GUI with Java Swing. 
 
 ## Screenshots
 Menu screen
