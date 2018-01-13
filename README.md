@@ -12,5 +12,5 @@ Main interface
 ![ultimate search interace](https://user-images.githubusercontent.com/22140953/34910912-6da731c8-f88c-11e7-809c-1fe95c6c2bfc.png)
 
 ## Requirements
-- This program only works with Chrome which is why the 'chromedriver.exe/ must be installed and placed in the root directory
+- This program only works with Chrome which is why the "chromedriver.exe" must be installed and placed in the root directory
 - If the code is executed in an IDE, then the Selenium may be required 
