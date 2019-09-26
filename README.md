@@ -14,6 +14,3 @@ Main interface
 ## Requirements
 - This program only works with Chrome which is why the "chromedriver.exe" must be installed and placed in the root directory
 - If the code is executed in an IDE, then the Selenium may be required
-
-## Improvements
-I would like to add an actually database to keep track of the login credentials and a system to authenticate them. If I were to continue on this project, I would ensure that it works with any browser and add other popular websites to the list.
